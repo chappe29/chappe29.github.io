@@ -1,0 +1,11 @@
+chappe29.github.io/
+├── index.html          # Page d'accueil (présentation)
+├── publications.html   # Travaux (publications + working papers)
+├── cv.html             # CV (lien vers PDF + résumé)
+├── data.html           # Données construites
+├── teaching.html       # Expérience d'enseignement
+├── contact.html        # Contacts (email, LinkedIn, etc.)
+├── style/
+│   └── main.css        # Feuille de style commune
+├── images/             # Dossier pour vos images (photo, logos, etc.)
+└── assets/             # PDFs (CV, articles), etc.
